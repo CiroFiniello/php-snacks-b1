@@ -1,0 +1,14 @@
+.bg-grey{
+    background-color: grey;
+    padding: 3rem;
+    width: 50%;
+}
+.bg-green{
+    background-color: greenyellow;
+    padding: 3rem;
+    width: 50%;
+}
+body{
+    display: flex;
+    width: 100%;
+}
